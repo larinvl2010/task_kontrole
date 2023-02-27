@@ -1,0 +1,15 @@
+C:\GIT\C-HomeWork\Control\Task_Control\obj\Debug\net6.0\Task_Control.csproj.AssemblyReference.cache
+C:\GIT\C-HomeWork\Control\Task_Control\obj\Debug\net6.0\Task_Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\C-HomeWork\Control\Task_Control\obj\Debug\net6.0\Task_Control.AssemblyInfoInputs.cache
+C:\GIT\C-HomeWork\Control\Task_Control\obj\Debug\net6.0\Task_Control.AssemblyInfo.cs
+C:\GIT\C-HomeWork\Control\Task_Control\obj\Debug\net6.0\Task_Control.csproj.CoreCompileInputs.cache
+C:\GIT\C-HomeWork\Control\Task_Control\bin\Debug\net6.0\Task_Control.exe
+C:\GIT\C-HomeWork\Control\Task_Control\bin\Debug\net6.0\Task_Control.deps.json
+C:\GIT\C-HomeWork\Control\Task_Control\bin\Debug\net6.0\Task_Control.runtimeconfig.json
+C:\GIT\C-HomeWork\Control\Task_Control\bin\Debug\net6.0\Task_Control.dll
+C:\GIT\C-HomeWork\Control\Task_Control\bin\Debug\net6.0\Task_Control.pdb
+C:\GIT\C-HomeWork\Control\Task_Control\obj\Debug\net6.0\Task_Control.dll
+C:\GIT\C-HomeWork\Control\Task_Control\obj\Debug\net6.0\refint\Task_Control.dll
+C:\GIT\C-HomeWork\Control\Task_Control\obj\Debug\net6.0\Task_Control.pdb
+C:\GIT\C-HomeWork\Control\Task_Control\obj\Debug\net6.0\Task_Control.genruntimeconfig.cache
+C:\GIT\C-HomeWork\Control\Task_Control\obj\Debug\net6.0\ref\Task_Control.dll
